@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
-# Update 01-01-2023
+# Update 03-21-2023
 
 """Simple test script for 2.9" 296x128 grayscale display.
 
